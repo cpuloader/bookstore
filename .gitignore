@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+db.sqlite3
+run_env
+celerybeat-schedule
+dump.rdb
+media/

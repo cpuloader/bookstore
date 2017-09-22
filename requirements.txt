@@ -1,0 +1,10 @@
+celery==4.1.0
+Django==1.11.5
+django-redis-cache==1.7.1
+djangorestframework==3.6.4
+kombu==4.1.0
+olefile==0.44
+Pillow==4.2.1
+pkg-resources==0.0.0
+pytz==2017.2
+vine==1.1.4
